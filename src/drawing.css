@@ -1,0 +1,106 @@
+
+.background-conatiner-1{
+    height: 100vh;
+    background-color:aliceblue;
+}
+
+.background-conatiner-2{
+    
+    background-color: white;
+    margin: 20px;
+    height: 80vh;
+    padding: 20px;
+}
+.heading{
+    font-size: 30px;
+    margin-left: 30px;
+}
+.report-container{
+    display: flex; 
+    flex-direction: row;
+    justify-content: center;
+
+    
+    
+}
+.report-head{
+    font-size: 15px;
+    margin-right: 50px;
+    margin-left: 45px;
+}
+
+.select-form{
+    height: 35px;
+    width: 230px;
+    background-color:lightsteelblue;
+}
+
+.Select-Time-Period{
+    display: flex; 
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 1rem;
+}
+
+.Select-Time-Period-1{
+    display: flex; 
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding: 1rem;
+}
+
+.Select-Time-Period-2{
+    display: flex; 
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+}
+.time-head{
+    margin-left: 300px;
+    font-size: 22px;
+}
+
+.head-one{
+    font-size: 10px;
+    margin-left: 300px;
+}
+
+.button{
+    background-color: coral;
+    height: 50px;
+    width: 150px;
+    color: white;
+    margin-right: 15px;
+
+}
+.button-2{
+    background-color: coral;
+    height: 50px;
+    width: 200px;
+    color: white;
+
+}
+
+.Select-Time-Period-3{
+    display: flex; 
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 1rem;
+    
+}
+
+.radio-btn{
+    margin-left: 300px;
+}
+
+.radio-btn-1{
+    margin-left: 40px;
+}
+
+.radio-btn-2{
+    margin-left: 300px;
+}
